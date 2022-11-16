@@ -9,3 +9,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Contact me at: anirudhmoolya1999@gmail.com
